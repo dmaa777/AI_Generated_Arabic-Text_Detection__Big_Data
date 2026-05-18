@@ -1,0 +1,19 @@
+# ---- Core Apache Spark & Data Processing ----
+pyspark==4.1.1
+pyarrow==15.0.0
+pandas==2.2.2
+numpy==1.26.4
+
+# ---- Arabic NLP & Text Processing ----
+pyarabic==0.6.15
+camel-tools==1.5.2
+nltk==3.8.1
+regex==2024.5.15
+
+# ---- Dataset & Ecosystem Utilities ----
+datasets==2.19.1
+huggingface_hub==0.23.0
+
+# ---- Visualization & Reporting ----
+matplotlib==3.8.4
+seaborn==0.13.2
